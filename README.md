@@ -1,13 +1,4 @@
 # Input CCDA
-Data files are from various sources. None specify a restrictive license, or a license at all.:
-- BCH: Boston Children's Hospital.
-  - [NIST](https://github.com/chb/sample_ccdas/tree/master/NIST%20Samples)
-  - [Transition of Care Samples](https://github.com/chb/sample_ccdas/tree/master/Transitions%20of%20Care%20Samples)
-  - seem to maintained by Josh Mandel https://github.com/jmandel (forked from)
-- gecole: George Cole
-  - [HL7 Task Force Examples](https://github.com/gecole/HL7-Task-Force-Examples)
-- HL7
-  - [HL7 C-CDA Examples](https://github.com/HL7/C-CDA-Examples)
 
 Data files by type:
 - CCD
@@ -19,10 +10,10 @@ Data files by type:
 - not a document, just section
   - HL7;  ./resources/Inpatient_Encounter_Discharged_to_Rehab_Location(C-CDA2.1).xml
 - Summarization of Episode
-  - CRISP: ./resources/CRISP Content Testing Samples/CRISP Main Node/anna_flux.xml
+  - CRISP: ./resources/anna_flux.xml
 - 
-  - HealtheConnect Alaska: ./resources/CRISP Content Testing Samples/HealtheConnect Alaska/healtheconnectak-ccd-20210226.2.xml
+  - HealtheConnect Alaska: ./resources/healtheconnectak-ccd-20210226.2.xml
 - Patient Summary Document: 
-  - MM: ./resources/Manifest_Medex/bennis_shauna_ccda.xml
+  - MM: ./resources/bennis_shauna_ccda.xml
 - Clinical Summary Document: 
-  - MM: ./resources/Manifest_Medex/eHX_Terry.xml
+  - MM: ./resources/eHX_Terry.xml
