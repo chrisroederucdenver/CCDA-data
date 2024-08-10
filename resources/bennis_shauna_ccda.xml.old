@@ -210,7 +210,7 @@
 <high nullFlavor="UNK"></high>
 </time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN" extension="1528507183"></id>
+<id root="&FHCN" extension="1528507183"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -342,7 +342,7 @@
 <high value="20200628000000"></high>
 </time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN" extension="1497081475"></id>
+<id root="&FHCN" extension="1497081475"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -360,7 +360,7 @@
 <high value="20191029215100"></high>
 </time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampPYHH_CA_HVMC_H-PV" extension="1093992901"></id>
+<id root="&PYHH_CA_HVMC_H-PV" extension="1093992901"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -379,7 +379,7 @@
 <high value="20190125000000"></high>
 </time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN-PV" extension="1851842819"></id>
+<id root="&FHCN-PV" extension="1851842819"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -602,7 +602,7 @@
 <high value="20200628000000"></high>
 </time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN" extension="1497081475"></id>
+<id root="&FHCN" extension="1497081475"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -620,7 +620,7 @@
 <high value="20191029215100"></high>
 </time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampPYHH_CA_HVMC_H-PV" extension="1093992901"></id>
+<id root="&PYHH_CA_HVMC_H-PV" extension="1093992901"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -639,7 +639,7 @@
 <high value="20190125000000"></high>
 </time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN-PV" extension="1851842819"></id>
+<id root="&FHCN-PV" extension="1851842819"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -3306,7 +3306,7 @@ Prescription Number: 71334368
 <effectiveTime value="20200628000002"></effectiveTime>
 <performer typeCode="PRF">
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN" extension="1497081475"></id>
+<id root="&FHCN" extension="1497081475"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -3754,7 +3754,7 @@ Prescription Number: 71334368
 <effectiveTime value="20190125000003"></effectiveTime>
 <performer typeCode="PRF">
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN-PV" extension="1851842819"></id>
+<id root="&FHCN-PV" extension="1851842819"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -3818,7 +3818,7 @@ Prescription Number: 71334368
 <effectiveTime value="20190125000001"></effectiveTime>
 <performer typeCode="PRF">
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN-PV" extension="1851842819"></id>
+<id root="&FHCN-PV" extension="1851842819"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -9932,7 +9932,7 @@ Prescription Number: 71334368
 <performer typeCode="PRF">
 <time nullFlavor="UNK"></time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN" extension="1497081475"></id>
+<id root="&FHCN" extension="1497081475"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -9945,7 +9945,7 @@ Prescription Number: 71334368
 </performer>
 <informant>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN" extension="1497081475"></id>
+<id root="&FHCN" extension="1497081475"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -10028,7 +10028,7 @@ Prescription Number: 71334368
 <performer typeCode="PRF">
 <time nullFlavor="UNK"></time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampPYHH_CA_HVMC_H-PV" extension="1093992901"></id>
+<id root="&PYHH_CA_HVMC_H-PV" extension="1093992901"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -10043,7 +10043,7 @@ Prescription Number: 71334368
 <author typeCode="AUT">
 <time value="20191029194600"></time>
 <assignedAuthor classCode="ASSIGNED">
-<id root="&ampPYHH_CA_HVMC_H-PV" extension="ggeli"></id>
+<id root="&PYHH_CA_HVMC_H-PV" extension="ggeli"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -10078,7 +10078,7 @@ Prescription Number: 71334368
 </author>
 <informant>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampPYHH_CA_HVMC_H-PV" extension="1093992901"></id>
+<id root="&PYHH_CA_HVMC_H-PV" extension="1093992901"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -10156,7 +10156,7 @@ Prescription Number: 71334368
 <performer typeCode="PRF">
 <time nullFlavor="UNK"></time>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN-PV" extension="1851842819"></id>
+<id root="&FHCN-PV" extension="1851842819"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
@@ -10169,7 +10169,7 @@ Prescription Number: 71334368
 </performer>
 <informant>
 <assignedEntity classCode="ASSIGNED">
-<id root="&ampFHCN-PV" extension="1851842819"></id>
+<id root="&FHCN-PV" extension="1851842819"></id>
 <addr nullFlavor="UNK"></addr>
 <telecom nullFlavor="UNK"></telecom>
 <assignedPerson>
