@@ -18,7 +18,7 @@ This repository contains various examples and sources of Clinical Document Archi
 | [BCH/EMERGE](https://github.com/chb/sample_ccdas/tree/aca04c6c8febfa9b462543e7024f9bbfa4a9996b/EMERGE)| Patient-502.xml | Good example for varied patientRole.id root "2.16.840.1.113883.19.5.99999.2"
 | [ehealthexchange](https://github.com/chb/sample_ccdas/blob/master/Transitions%20of%20Care%20Samples/) | ToC_CCDA_CCD_CompGuideSample_FullXML.xml | Transition of Care    |
 
-## Invalide/Deprecated/Old Files
+## Invalid/Deprecated/Old Files
 
 | **Source** | **File** | ***Notes**                   |
 |------------|----------|------------------------------|
