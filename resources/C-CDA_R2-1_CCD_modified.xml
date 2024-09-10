@@ -3054,7 +3054,7 @@
 									<code code="95971004" displayName="Urea nitrogen, Serum" codeSystem="2.16.840.1.113883.6.96" codeSystemName="SNOMED CT"/>
 									<statusCode code="active"/>
 									<effectiveTime value="200803200930-0800"/>
-									<value xsi:type="PQ" nullFlavor="NI"/>
+									<value xsi:type="PQ" value="123"/>
 								</observation>
 							</component>
 						</organizer>
