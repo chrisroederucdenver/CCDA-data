@@ -1,4 +1,4 @@
-# CCD Documents and Examples
+# CCD Synthetic Documents and Examples 
 
 This repository contains various examples and sources of Clinical Document Architecture (CDA) documents. Below is a table summarizing the types of documents, their sources, and links to the respective files.
 
